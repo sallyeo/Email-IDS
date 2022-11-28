@@ -1,0 +1,5 @@
+Total Counter of day 0: 11.77
+Total Counter of day 1: 12.0
+Total Counter of day 2: 7.74
+Total Counter of day 3: 7.44
+Total Counter of day 4: 24.13
